@@ -1,0 +1,25 @@
+#logo{
+    color: rgb(32, 175, 175);
+}
+.menu ul{
+    background-color: rgb(51, 199, 199);
+    list-style-type: none;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+    border: 0.5pt solid;
+    border-color: black;
+
+}
+.menu li{
+    color: black;
+    float: left;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+}
+#dk{
+    text-align: center;
+    color: rgb(32, 175, 175);
+
+}
